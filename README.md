@@ -35,9 +35,9 @@ The Student objects exist independently of the SchoolOne and SchoolTwo classes, 
 
 PROBLEM 4: Overloading Operator
 
-The Vector class successfully overloads the + operator, allowing you to add two Vector instances together using the + operator.
+The Vector class successfully overloads the + operator, allowing it to add two Vector instances together using the + operator.
 
-This makes the code more intuitive and readable, as it allows to use natural mathematical expressions with your custom objects.
+This makes the code more intuitive and readable, as it allows to use natural mathematical expressions with the custom objects.
 
 -
 
@@ -45,4 +45,4 @@ PROBLEM 5: Composition
 
 The Book class uses composition by including an instance of the Author class, demonstrating how a book "has an author" rather than "is an author"
 
-This design choice promotes better code organization and flexibility, aligning with the principles of composition
+This has better code organization and flexibility, aligning with the principles of composition
